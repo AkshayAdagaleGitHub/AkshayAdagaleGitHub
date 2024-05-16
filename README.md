@@ -1,7 +1,11 @@
-### Hi there 👋
+# Akshay Adagale 
+ 
+## Welcome to my GitHub Repository
+
+- You can connect with me on 
+  - LinkedIn - https://www.linkedin.com/in/akshayadagale
 
 <!--
-**AkshayAdagaleGitHub/AkshayAdagaleGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
