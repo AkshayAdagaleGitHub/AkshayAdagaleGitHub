@@ -4,6 +4,7 @@
 
 - You can connect with me on 
   - LinkedIn - https://www.linkedin.com/in/akshayadagale
+  - Medium - https://medium.com/@akshayadagale
 
 <!--
 
