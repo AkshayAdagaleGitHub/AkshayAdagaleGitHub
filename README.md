@@ -6,6 +6,10 @@ San Francisco, CA
 - You can connect with me on 
   - LinkedIn - https://www.linkedin.com/in/akshayadagale
   - Medium - https://medium.com/@akshayadagale
+ 
+- Website
+  - https://tanhuram-newspaper.com
+  - https://tanhuram.com
 
 
 ## Summary
