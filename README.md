@@ -18,61 +18,32 @@ Accomplished Senior Software Engineer with comprehensive full-stack expertise in
 ## Technologies
 Programming Languages
 
-- Java
-- JavaScript
-- Python
-- Kotlin
-- C++
+- Java, JavaScript, Python, Kotlin, C++
 
 Frontend
 
-- HTML/CSS
-- React.js
-- JavaScript
-- Thymeleaf
-- TypeScript
+- HTML/CSS, React.js, JavaScript, Thymeleaf, TypeScript
 
 Backend
 
-- Spring Boot
-- Spring Cloud Stream
-- Messaging Queue
-- Kafka
-- SQL
-- NoSQL
-- MySQL
-- Cassandra
-- MongoDB
-- PostgreSQL
-- GraphQL
-- REST API
-- JVM
-- Maven
-- SQL Server
-- Redis
-- Selenium
-- Docker
-- Node.js
-- WebSocket
+- Spring Boot, Spring Cloud Stream, Messaging Queue, Kafka, SQL, NoSQL, MySQL, Cassandra, MongoDB, PostgreSQL, GraphQL, REST API, JVM, Maven, SQL Server, Redis, Selenium, Docker, Node.js, WebSocket
 
 Cloud Services
-- Google Cloud Platform (GCP: Spanner, Dataflow, Pub/Sub, BigQuery)
-- AWS
-- Azure
+- Google Cloud Platform (GCP: Spanner, Dataflow, Pub/Sub, BigQuery), AWS, Azure
 
 ## Professional Experience
 ### Prosper Marketplace 
-Senior Software Engineer, San Francisco, CA, July 2024 - Present
+- Senior Software Engineer, San Francisco, CA, July 2024 - Present
 ### PayPal
-Software Engineer, San Jose, CA, February 2022 - May 2024
+- Software Engineer, San Jose, CA, February 2022 - May 2024
 ### eBay
-Software Engineer, San Jose, CA, December 2021 - February 2022
+- Software Engineer, San Jose, CA, December 2021 - February 2022
 ### Walmart
-Software Engineer, Sunnyvale, CA, October 2018 - December 2021
+- Software Engineer, Sunnyvale, CA, October 2018 - December 2021
 ### E4 Carolinas 
-Software Engineer, Charlotte, NC, August 2018 - October 2018
+- Software Engineer, Charlotte, NC, August 2018 - October 2018
 ### Open Learning Exchange
-Software Engineer, Boston, MA, May 2018 - August 2018
+- Software Engineer, Boston, MA, May 2018 - August 2018
 
 ## Project Work
 ### School Management System | Software Engineer
